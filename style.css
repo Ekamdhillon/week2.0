@@ -1,0 +1,42 @@
+body{
+    background-color: aqua;
+}
+
+img{
+    width: auto;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+h1{
+    color: bisque;
+}
+.head12{
+color: blue;
+}
+#head12{
+    color: brown;
+}
+p{
+    color: beige;
+}
+.table-container{
+    margin: 0 auto;
+    width: 50%;
+
+}
+
+
+
+table{
+    width:  100%;
+    border-collapse: collapse;
+}
+th,td{
+    border: 2px solid black;
+    padding: 5px;
+    text-align: center;
+}
+th{
+    background-color: blue;
+}
